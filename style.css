@@ -1,0 +1,27 @@
+html {
+	background-color: #aaaaaa;
+}
+
+h1 {
+	float: right;
+	margin-top: 200px;
+	margin-right: 500px; 
+	
+}
+
+.h2 {
+	float: right;
+	margin-top:  -10px;
+	margin-right: 600px;
+}
+
+.hujat {
+	height: 300px;
+	width: 300px;
+	float: right;
+	border-radius: 50%;
+	border-spacing: 300%;
+	border-style: double;
+	margin-top: 10px;
+	margin-right: 440px;
+}
